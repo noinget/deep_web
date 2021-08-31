@@ -1,1 +1,4 @@
+## download vgg19 weight and put it here.
+
 curl https://www.dropbox.com/s/25ty996bg0k61ql/my_model.h5?dl=0 -J -O -L
+
